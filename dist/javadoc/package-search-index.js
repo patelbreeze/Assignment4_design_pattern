@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"design_pattern.facade"},{"l":"design_pattern.FactoryPattern"},{"l":"design_pattern.Filter"},{"l":"design_pattern.MoonRover"},{"l":"design_pattern.Singleobject"},{"l":"design_pattern.statePattern"},{"l":"MultiTreads"}];updateSearchResults();
